@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswKUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T02:08:32.798Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\DTOs\\UserDTO.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAlwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T00:12:47.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T00:12:47.525Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Models\\FromModule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T23:55:53.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T23:55:53.409Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Diagram\\DbModel.edmx [Diagram1]",
               "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Diagram\\DbModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-03-26T23:29:45.64Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-03-26T23:29:45.64Z"
             }
           ]
         }
