@@ -3,77 +3,111 @@
   "WorkspaceRootPath": "C:\\Users\\rodri\\OneDrive\\Desktop\\ModelSecurity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32BC4D18-37A6-47AC-87B7-02ACE0B14635}|..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Business\\Business.csproj|c:\\users\\rodri\\onedrive\\desktop\\visula 22\\primer proyecto visual 22\\modelsecurity\\business\\rolbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52F6CF1-BF71-4459-8138-449F85B94016}|..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Data\\Data.csproj|c:\\users\\rodri\\onedrive\\desktop\\visula 22\\primer proyecto visual 22\\modelsecurity\\data\\roldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F4B161-BF87-4221-A43B-7FD7BE4A5D2A}|..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\Utilities.csproj|c:\\users\\rodri\\onedrive\\desktop\\visula 22\\primer proyecto visual 22\\modelsecurity\\utilities\\exeptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F4B161-BF87-4221-A43B-7FD7BE4A5D2A}|..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\Utilities.csproj|c:\\users\\rodri\\onedrive\\desktop\\visula 22\\primer proyecto visual 22\\modelsecurity\\utilities\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E53B081-F7BD-4735-B2EC-83CAF7756249}|..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Entity.csproj|c:\\users\\rodri\\onedrive\\desktop\\visula 22\\primer proyecto visual 22\\modelsecurity\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E53B081-F7BD-4735-B2EC-83CAF7756249}|..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Entity.csproj|c:\\users\\rodri\\onedrive\\desktop\\visula 22\\primer proyecto visual 22\\modelsecurity\\entity\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A62EBBB-05A8-418B-ABBD-63639B8CFDE4}|..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Diagram\\Diagram.csproj|c:\\users\\rodri\\onedrive\\desktop\\visula 22\\primer proyecto visual 22\\modelsecurity\\diagram\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E53B081-F7BD-4735-B2EC-83CAF7756249}|..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Entity.csproj|c:\\users\\rodri\\onedrive\\desktop\\visula 22\\primer proyecto visual 22\\modelsecurity\\entity\\models\\frommodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1BFEF33-3CBD-4A6F-AAA8-E229F38D2A15}|Web\\Web.csproj|c:\\users\\rodri\\onedrive\\desktop\\modelsecurity\\web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BFEF33-3CBD-4A6F-AAA8-E229F38D2A15}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 458,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\Exeptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\Exeptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\Exeptions\\BusinessException.cs",
+              "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\Exeptions\\BusinessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T02:08:32.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\DTOs\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T00:12:47.525Z",
+              "WhenOpened": "2025-04-05T12:54:51.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FromModule.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Models\\FromModule.cs",
-              "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Models\\FromModule.cs",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Models\\FromModule.cs",
-              "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Models\\FromModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Title": "DataException.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\DataException.cs",
+              "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\DataException.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\DataException.cs",
+              "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Utilities\\DataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T23:55:53.409Z",
+              "WhenOpened": "2025-04-05T12:54:36.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbModel.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Diagram\\DbModel.edmx",
-              "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Diagram\\DbModel.edmx",
-              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Diagram\\DbModel.edmx [Diagram1]",
-              "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Diagram\\DbModel.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-03-26T23:29:45.64Z",
-              "EditorCaption": " [Diagram1]"
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Entity\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:49:34.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RolData.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Data\\RolData.cs",
+              "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Data\\RolData.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Data\\RolData.cs",
+              "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Data\\RolData.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:45:35.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Business\\RolBusiness.cs",
+              "RelativeDocumentMoniker": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Business\\RolBusiness.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Business\\RolBusiness.cs",
+              "RelativeToolTip": "..\\Visula 22\\Primer proyecto visual 22\\ModelSecurity\\Business\\RolBusiness.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAwH8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:23:27.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\OneDrive\\Desktop\\ModelSecurity\\Web\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\rodri\\OneDrive\\Desktop\\ModelSecurity\\Web\\Controllers\\RolController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:14:07.48Z",
+              "EditorCaption": ""
             }
           ]
         }

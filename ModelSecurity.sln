@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "..\Visula 22\Prim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\Visula 22\Primer proyecto visual 22\ModelSecurity\Utilities\Utilities.csproj", "{60F4B161-BF87-4221-A43B-7FD7BE4A5D2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{A1BFEF33-3CBD-4A6F-AAA8-E229F38D2A15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{60F4B161-BF87-4221-A43B-7FD7BE4A5D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60F4B161-BF87-4221-A43B-7FD7BE4A5D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60F4B161-BF87-4221-A43B-7FD7BE4A5D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BFEF33-3CBD-4A6F-AAA8-E229F38D2A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BFEF33-3CBD-4A6F-AAA8-E229F38D2A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BFEF33-3CBD-4A6F-AAA8-E229F38D2A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BFEF33-3CBD-4A6F-AAA8-E229F38D2A15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
