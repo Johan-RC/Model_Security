@@ -14,12 +14,12 @@ namespace Web.Controllers
     [Route("api/[controller]")]
     [ApiController]
     [Produces("application/json")]
-    public class ModuleController : ControllerBase
+    public class EstudianteController : ControllerBase
     {
-        private readonly ModuleBusiness _ModuleBusiness;
-        private readonly ILogger<ModuleController> _logger;
+        private readonly IEstudianteBusiness _ModuleBusiness;
+        private readonly ILogger<EstudianteController> _logger;
 
-        public ModuleController(ModuleBusiness ModuleBusiness, ILogger<ModuleController> logger)
+        public EstudianteController(IEstudianteBusiness ModuleBusiness, ILogger<EstudianteController> logger)
         {
             _ModuleBusiness = ModuleBusiness;
             _logger = logger;
